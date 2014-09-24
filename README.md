@@ -18,4 +18,5 @@ Tame the coupled trackpad/mouse scroll on OS X. This workflow toggles the natura
 > Hotkey: `^ ⌥ ⌘ + s`
 
 ![Toggle scroll direction](/toggle-scroll-direction/screenshot.png?raw=true)
+
 *Loosely based on [alfred2-wf-scroll-direction](https://github.com/tyeen/alfred2-wf-scroll-direction).*
