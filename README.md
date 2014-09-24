@@ -14,7 +14,7 @@ Workflows
 
 Tame the coupled trackpad/mouse scroll on OS X. This workflow toggles the natural/unnatural scrolling behavior.
 
-> Keyword: `ts`
+> Keyword: `ts`  
 > Hotkey: `^ ⌥ ⌘ + s`
 
 ![Toggle scroll direction](/toggle-scroll-direction/screenshot.png?raw=true)  
